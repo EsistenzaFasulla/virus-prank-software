@@ -1,2 +1,2 @@
 # virus-prank-software
-It's a funny virus prank software for epic reaction from your friends XD.
+it's a fun prank program to send to your friendsXD
